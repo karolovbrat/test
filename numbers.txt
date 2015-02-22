@@ -1,6 +1,6 @@
 one
 hehe menim riadok dva
-three
+hehe menim riadok tri
 four 4321 x4
 five
 six
