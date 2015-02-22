@@ -1,6 +1,6 @@
 one
 hehe menim riadok dva
-three
+hehe menim riadok tri
 four
 five
 six
